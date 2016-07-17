@@ -1,0 +1,15 @@
+{
+  "name": "tweethelper",
+  "version": "1.0.0",
+  "description": "A bot to tweet DMs from a white labeled account",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikolaos Maniatis - http://www.nikolaosmaniatis.eu",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.4"
+  }
+}
